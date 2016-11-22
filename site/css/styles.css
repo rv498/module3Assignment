@@ -14,8 +14,9 @@
 /* Medium */
 
 @media(min-width:992px) and (max-width:1199px) {
-
-    .MeatCategory {display: none; }
+    .MeatCategory {
+        display: none;
+    }
 }
 
 
