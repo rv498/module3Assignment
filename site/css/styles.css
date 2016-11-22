@@ -1,0 +1,22 @@
+/* CSS Document */
+/* Extra Small */
+@media(max-width:767px){
+	 
+}
+
+/* Small */
+@media(min-width:768px) and (max-width:991px){
+	.navbar-toggle {display:none;}
+	
+}
+
+/* Medium */
+@media(min-width:992px) and (max-width:1199px){
+	.navbar-toggle {display:none;}
+}
+
+/* Large */
+@media(min-width:1200px){
+	.navbar-toggle {display:none;}
+	
+}
